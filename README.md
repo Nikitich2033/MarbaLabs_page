@@ -158,7 +158,7 @@ We welcome contributions! Please feel free to submit issues and enhancement requ
 
 ## 🔗 Links
 
-- 🌐 **Live Site**: [Your deployment URL]
+- 🌐 **Live Site**: https://marbalabs.info
 - 🐦 **Birb NFT**: [birb-nft.tech](https://birb-nft.tech)
 - 🎮 **TonFlip**: [tonflip.bot](https://tonflip.bot)
 
